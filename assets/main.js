@@ -66,7 +66,7 @@ document.addEventListener('click', function(event){
         iniciar.style.transform = 'scale(1)'
         iniciar.style.boxShadow = 'none'
         exibTime.style.boxShadow = 'none'
-        exibTime.style.border = '0'
+        exibTime.style.border = '1px solid grey'
     }
 })
 
